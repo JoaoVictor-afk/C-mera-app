@@ -1,5 +1,5 @@
 # Camera-app
-Utilizando alcumas funcionalidades da camera no React.
+Utilizando algumas funcionalidades da camera no React.
 
 Intuito da criação do aplicativo foi testar as minhas habilidades no React Native.
 
